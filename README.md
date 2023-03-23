@@ -44,4 +44,3 @@ Start the local development server
 Postman Documentation URL: https://documenter.getpostman.com/view/19174482/2s93RMVbL4
 
 **Important Note:** You need to change the environment epigrian_api_url value via Postman according to your own project's link and you need to set the "QUEUE_CONNECTION" value in the .env file to "database".
-# epigrian
